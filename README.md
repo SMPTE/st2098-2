@@ -6,7 +6,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements is made available for a public review period ending no earlier than 2026-10-31, and no later than 2026-10-31:
+The following element is made available for a public review period ending no earlier than 2026-10-31, and no later than 2026-10-31:
 
 * <a href="https://github.com/SMPTE/st2098-2/blob/main/xxx.zip">27c-st-2098-2-cd-2026-04-29-pub.zip</a>
 
