@@ -4,6 +4,15 @@ _This repository is public._
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
+## Public Committee Draft (PCD) Notice
+
+The following elements is made available for a public review period ending no earlier than 2026-10-31, and no later than 2026-10-31:
+
+* <a href="https://github.com/SMPTE/st2098-2/blob/main/xxx.zip">SMPTE PCD ST 2098-2 Immersive Audio — Bitstream Specification</a>
+
+## Details
+SMPTE ST 2098-2 has been revised and migrated into the new HTML format, improving accessibility and usability of the specification. This revision extends Immersive Audio Bitstream (IAB) support to include 30000/1001 fps and 60000/1001 fps, aligning with IMF Application #2E and helping remove barriers to adoption for streaming and other high-frame-rate content outside of Digital Cinema.
+
 ## Reporting issues
 
 Please report issues at <https://github.com/SMPTE/st2098-2/issues> or at the 27C Chairs <27c-chair@smpte.org>.
