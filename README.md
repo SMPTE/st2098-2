@@ -7,7 +7,9 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 <!-- PCD-INFO:START -->
 ## Public Committee Draft (PCD) Notice
 
-The following element is made available for a public review period ending no earlier than 2026-10-31, and no later than 2026-10-31. To view the document, download the [ZIP file](./27c-st-2098-2-cd-2026-04-29-pub.zip), extract the files, and open the HTML file in your browser.
+The following element is made available for a public review period ending no earlier than 2026-10-31, and no later than 2026-10-31. 
+
+To view the document, download the [ZIP file](./27c-st-2098-2-cd-2026-04-29-pub.zip), extract the files, and open the HTML file in your browser.
 
 ## Details
 SMPTE ST 2098-2, a revision of SMPTE ST 2098-2:2022, has been revised and migrated to the new HTML format, improving accessibility and usability of the specification.
